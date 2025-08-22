@@ -4,9 +4,7 @@ This is a simple and responsive hotel booking website built with React, Vite, an
 # How to Run
 To get this project running on your local machine, follow these simple steps. You will need Node.js installed.
 
-1. Clone the repository
-# Replace the URL with your actual repository URL
-git clone https://github.com/your-username/hotel-booking-app.git or just dowload the repo
+git clone Repository url or just dowload the repository
 
 # Navigate into the project directory
 -> cd frontend

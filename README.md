@@ -1,12 +1,19 @@
-# React + Vite
+Dynamic Hotel Booking App
+This is a simple and responsive hotel booking website built with React, Vite, and Tailwind CSS. It allows users to filter rooms based on their preferences and view details for their selected choice.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+How to Run
+To get this project running on your local machine, follow these simple steps. You will need Node.js installed.
 
-Currently, two official plugins are available:
+1. Clone the repository
+# Replace the URL with your actual repository URL
+git clone https://github.com/your-username/hotel-booking-app.git or just dowload the repo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Navigate into the project directory
+-> cd frontend
+2. Install Dependencies
+Install all the necessary packages using npm.
+ -> npm install
+3. Run the App
+Start the local development server.
+npm run dev
+The application will now be running at http://localhost:5173.
